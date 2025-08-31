@@ -1,0 +1,25 @@
+{
+    "dataset_name": [
+        "LeRobot"
+    ],
+    "author": [
+        "ll"
+    ],
+    "data": [
+        "2025-08-29"
+    ],
+    "description": [
+        "grasp cube"
+    ],
+    "num_episodes": [
+        1
+    ],
+    "fps": [
+        30
+    ],
+    "modality": [
+        "qpos",
+        "ee_pose",
+        "obj_pose"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "state": {
+        "qpos": {
+            "start": 0,
+            "end": 8
+        },
+        "ee_pose": {
+            "start": 9,
+            "end": 15
+        },
+        "obj_pose": {
+            "start": 16,
+            "end": 22
+        }
+    }
+}
